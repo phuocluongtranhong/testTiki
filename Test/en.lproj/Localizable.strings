@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Test
+
+  Created by Helios on 7/7/18.
+  
+*/
+
+// TwitterController
+
+"OK" = "OK";
+"Invalid input" = "Invalid input";
+"Done" = "Done";
+"Input the tweet" = "Input the tweet";
